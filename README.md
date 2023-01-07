@@ -18,4 +18,4 @@ otherwise if I want a pasta
 otherwise
     I order a salad.
 Like in the text if something is true it vill return True statement if it's not true it will return False but if something is diferrent you can use elif (else if)
-if one string is true and other is false if both if neither of them are true you can use else to print statement that will print the final result like you are neither a male anr neither tall
+if one variable is true and other is false if both if neither of them are true you can use else to print statement that will print the final result like you are neither a male anr neither tall
